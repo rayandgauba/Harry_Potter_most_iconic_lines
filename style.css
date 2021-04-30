@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-family: arial;
+    color: white;
+}
+
+#header {
+    height: 500px
+}
+
+h2 {
+    font-family: arial;
+    color: white;
+    font-size: 40px;
+}
+
+#quotes {
+    font-family: arial;
+    font-size: 30px;
+    color: white;
+}
+
+button {
+    height: 70px;
+    width: 150px;
+    font-size: 20px;
+}
+
+#remarks {
+    color: blue;
+    font-family: Merriweather, serif;
+}
+
+#comment {
+    color: red;
+    font-family: sans-serif;
+}
